@@ -1,0 +1,40 @@
+body {
+    margin: 0 auto;
+    width: 80%;
+    background-color: #e8f0c8;
+}
+
+h1 {
+    font-family: 'Prociono', serif;
+}
+
+#blogroll {
+	width: 80%;
+	float: left;
+    background-color: aqua
+}
+
+article {
+    background-color: yellow;
+}
+
+h3 {
+    font-family: 'Roboto Slab', serif;
+}
+
+.subhead {
+    font-style: italic;
+}
+
+.content {
+    font-family: 'Roboto', sans-serif;
+}
+
+aside {
+	float: left;
+}
+
+footer {
+    text-align: center;
+    clear:both;
+}
